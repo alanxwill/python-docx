@@ -2,7 +2,7 @@
    :target: https://travis-ci.org/python-openxml/python-docx
 
 *python-docx* is a Python library for creating and updating Microsoft Word
-(.docx) files.
+(.docx/.docm) files.
 
 More information is available in the `python-docx documentation`_.
 
